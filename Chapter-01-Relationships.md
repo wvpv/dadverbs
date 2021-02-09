@@ -1,3 +1,13 @@
+---
+title: Relationships
+menu_order: 1
+post_status: draft
+post_excerpt:
+taxonomy:
+    category:
+        - dadverbs
+---
+
 1. No one cares about your welfare more than your parents.  They've been carrying the responsibility burden for you longer than anyone else.
 2. If the people around you always tell you "yes" and never "no" then they don't truly care about you.
 3. Refrain from gifting what the recipient collects as a hobby -- unless you collect it, too.
