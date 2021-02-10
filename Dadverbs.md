@@ -8,7 +8,6 @@ taxonomy:
         - dadverbs
 ---
 by Adam Spriggs
-
 ## 1. Relationships
 
 1. No one cares about your welfare more than your parents.  They've been carrying the responsibility burden for you longer than anyone else.
