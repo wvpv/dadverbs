@@ -7,7 +7,6 @@ taxonomy:
     category:
         - dadverbs
 ---
-
 by Adam Spriggs
 
 ## [1. Relationships](#relationships)
