@@ -8,6 +8,9 @@ taxonomy:
         - dadverbs
 ---
 by Adam Spriggs
+
+These are lessons I've mostly learned the hard way and don't want to forget.  And some opinions, of course.
+
 ## 1. Relationships
 
 1. No one cares about your welfare more than your parents.  They've been carrying the responsibility burden for you longer than anyone else.
