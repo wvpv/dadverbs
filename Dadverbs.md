@@ -8,7 +8,9 @@ taxonomy:
         - dadverbs
 ---
 
-## 1. Relationships
+by Adam Spriggs
+
+## [1. Relationships](#relationships)
 
 1. No one cares about your welfare more than your parents.  They've been carrying the responsibility burden for you longer than anyone else.
 2. If the people around you always tell you "yes" and never "no" then they don't truly care about you.
@@ -20,7 +22,7 @@ taxonomy:
 8. Boasting about your virtuous deeds puts your priorities and motives in question. Those announcements negate most of the goodness in the results.
 9. Mark Twain once said, "Never argue with a fool, onlookers may not be able to tell the difference."
 
-## 2. Cars
+## [2. Cars](#cars)
 
 1. Do the total cost of ownership math on your vehicle.  The best cars are usually the ones that get good gas mileage.
 2. Invest in some floor mats that catch dirt.
@@ -28,13 +30,13 @@ taxonomy:
 4. Paying attention is the most important rule of driving.
 5. The fast lane is never faster during rush hour.  Generally speaking, people who treat it that way are the ones that make it worse.
 
-## 3. Money
+## [3. Money](#money)
 
 1. Resist the impulse to buy something to just make yourself feel better.  It rarely works.  Let purchasing decisions simmer.   Don't give in to any pressure to make a decision right now.
 2. Be wary of those constantly trying to sell you something or those that don't value you as an individual capable of managing your own life.  Know that your attention, your sense of belonging, or fear of missing out are direct lines to your bank account.
 3. You're a slave to your debtors.  Pay off your debts as soon as you can.
 
-## 4. Food & Drink
+## [4. Food & Drink](#food-and-drink)
 
 1. Red potatoes are the best potatoes.
 2. Stew is always better on the second day.
@@ -42,7 +44,7 @@ taxonomy:
 4. There's always room for dessert.
 5. To quote Michael Scott in _The Office_, "The only thing that would make this day any better is ice cream."
 
-## 5. Animals
+## [5. Animals](#animals)
 
 1. Hunting fish in a boat is more fun than waiting for a fish to find your bait.
 2. There's something about putting your ear up to a purring cat.
@@ -50,7 +52,7 @@ taxonomy:
 4. Cats are better than dogs because of where they poop.
 
 
-## 6. Sports
+## [6. Sports](#sports)
 
 1. Good free throw shooters are good basketball players.
 2. Golf is only fun if you have a golf cart and the course is empty.
@@ -58,7 +60,7 @@ taxonomy:
 4. Vince Lombardi said in 1967, "[...] the next time you make it to the end zone, act like you've been there before."
 5. It doesn't get much better than Mitch Holthus calling a Kansas City Chiefs football game.
 
-## 7. Learning
+## [7. Learning](#learning)
 
 1. You learn the most when you screw it up the worst.
 2. If you give away all the answers freely, you're depriving someone of the satisfaction and ownership of figuring it out.
@@ -72,7 +74,7 @@ taxonomy:
 10. As the old Russian saying goes, "doveryai, no proveryai" -- trust, but verify.
 11. At some point, everyone has learned to wipe their own butt.
 
-## 8. The Internet
+## [8. The Internet](#the-internet)
 
 1. If you wouldn't say it or do it to someone in person, don't post it on social media.
 2. The majority of people use the Internet not for spreading goodwill but to complain.  Keep that in mind when you're reading product reviews.
@@ -80,7 +82,7 @@ taxonomy:
 4. Algorithms are always biased because they have objectives. What algorithm doesn't have an intended purpose?
 5. If what you're saying is important and you have the option, favor richer forms of communication where people can hear your tone and see your body language.
 
-## 9. Business
+## [9. Business](#business)
 
 1. The Harley Davidson brand is essentially the same as the Apple brand, but with more leather.
 2. Be wary of any business that takes advantage of people who aren't good at math.  As it's been said, "a fool and his money are soon parted".
@@ -97,13 +99,13 @@ taxonomy:
 13. You can't set expectations effectively if you are not taking deliberate steps to build trust with the client stakeholders.  They should have plenty of reasons to believe you when you say "this is the best way to do it."
 14. Listen for opportunities to demonstrate your team's expertise.
 
-## 10. Craftsmanship
+## [10. Craftsmanship](#craftsmanship)
 
 1. Don't assume that something simple is easy or quick to build.  As DaVinci said, "simplicity is the ultimate sophistication."
 2. Take time to explicitly appreciate fine craftsmanship and skilled handiwork.  A lot of effort probably went into it.
 3. Try to do it yourself, or at least research what's involved.  If you end up paying someone else to do it, you'll have some respect for the work involved.  You'll also know if you're paying a fair price.
 
-## 11. Religion & Politics
+## [11. Religion & Politics](#religion-and-politics)
 
 1. Your beliefs aren't truly yours until they are cemented by hardship and pain.
 2. We are supposed to be judgmental, just not condemning.  Wisdom and discernment are underrated.
@@ -113,14 +115,14 @@ taxonomy:
 6. Quietly call out hypocrisy.  Start with yourself first.
 7. True science is pragmatic -- always testing and asking questions in order to form a hypothesis.  Hypotheses are not always facts.
 
-## 12. Inner Life
+## [12. Inner Life](#inner-life)
 
 1. If you tell a lie, you'll always be in bigger trouble than if you just told the truth and faced the consequences.
 2. Watch out for those "it's not that big of a deal" parts of your life.  You should do something decisive about them.
 3. It's perfectly fine to be angry when you know you own an item but can't remember where you put it. Put it in a more logical place next time.
 4. Get up early and enjoy the time to yourself.
 
-## 13. Perspective
+## [13. Perspective](#perspective)
 
 1. Honestly asking yourself "What's the worst thing that could happen?" is an effective way to keep a crisis in perspective.
 2. If everything is a high-priority, then nothing is.  If everyone cuts to the front of the line, there's still a line and now the other people in line are angry.
@@ -129,7 +131,7 @@ taxonomy:
 5. It's good to consider who is behind the camera. We often think we are seeing what we are seeing, but in reality, we see what the camera operators, producers, and directors want us to see.
 6. There's a chance that the Yahootie actually did do it.  Mom said so.
 
-## 14. Tools
+## [14. Tools](#tools)
 
 1. If you're a professional, you should invest in the quality tools that professionals use.
 2. Use a wooden pencil every so often. It's nice to erase.
