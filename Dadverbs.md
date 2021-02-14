@@ -79,6 +79,7 @@ by Adam Spriggs
 3. If something online is free, the use of your information, your connections, your location, and related activity data is the payment.
 4. Algorithms are always biased because they have objectives. What algorithm doesn't have an intended purpose?
 5. If what you're saying is important and you have the option, favor richer forms of communication where people can hear your tone and see your body language.
+6. Don't search the web for your ailments, unless you want cancer.
 
 ## 9. Business
 
