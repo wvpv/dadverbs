@@ -11,6 +11,18 @@ by Adam Spriggs
 
 These are lessons I've mostly learned the hard way and don't want to forget.  And some opinions, of course.
 
+## Table of Contents
+
+|                        |                                |
+| :-                     | :-                             |
+| [1. Relationships](#1) | [8. The Internet](#8)          |
+| [2. Cars](#2)          | [9. Business](#9)              |
+| [3. Money](#3)         | [10. Craftsmanship](#10)       |
+| [4. Food & Drink](#4)  | [11. Religion & Politics](#11) |
+| [5. Animals](#5)       | [12. Inner Life](#12)          |
+| [6. Sports](#6)        | [13. Perspective](#13)         |
+| [7. Learning](#7)      | [14. Tools](#14)               |
+
 ## 1. Relationships <a id="1"></a>
 
 1. <a id="1:1"></a> No one cares about your welfare more than your parents.  They've been carrying the responsibility burden for you longer than anyone else.
