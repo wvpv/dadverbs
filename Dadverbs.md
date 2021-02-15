@@ -13,15 +13,38 @@ These are lessons I've mostly learned the hard way and don't want to forget.  An
 
 ## Table of Contents
 
-|                        |                                |
-| :-                     | :-                             |
-| [1. Relationships](#1) | [8. The Internet](#8)          |
-| [2. Cars](#2)          | [9. Business](#9)              |
-| [3. Money](#3)         | [10. Craftsmanship](#10)       |
-| [4. Food & Drink](#4)  | [11. Religion & Politics](#11) |
-| [5. Animals](#5)       | [12. Inner Life](#12)          |
-| [6. Sports](#6)        | [13. Perspective](#13)         |
-| [7. Learning](#7)      | [14. Tools](#14)               |
+<table style="line-height:1.1em">
+    <tbody>
+        <tr>
+            <td style="text-align: left;"><a href="#1">1. Relationships</a></td>
+            <td style="text-align: left;"><a href="#8">8. The Internet</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: left;"><a href="#2">2. Cars</a></td>
+            <td style="text-align: left;"><a href="#9">9. Business</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: left;"><a href="#3">3. Money</a></td>
+            <td style="text-align: left;"><a href="#10">10. Craftsmanship</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: left;"><a href="#4">4. Food &amp; Drink</a></td>
+            <td style="text-align: left;"><a href="#11">11. Religion &amp; Politics</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: left;"><a href="#5">5. Animals</a></td>
+            <td style="text-align: left;"><a href="#12">12. Inner Life</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: left;"><a href="#6">6. Sports</a></td>
+            <td style="text-align: left;"><a href="#13">13. Perspective</a></td>
+        </tr>
+        <tr>
+            <td style="text-align: left;"><a href="#7">7. Learning</a></td>
+            <td style="text-align: left;"><a href="#14">14. Tools</a></td>
+        </tr>
+    </tbody>
+</table>
 
 ## 1. Relationships <a id="1"></a>
 
