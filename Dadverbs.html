@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<!--
+==============================================================================
+           "GitHub HTML5 Pandoc Template" v2.1 — by Tristano Ajmone
+==============================================================================
+Copyright © Tristano Ajmone, 2017, MIT License (MIT). Project's home:
+
+- https://github.com/tajmone/pandoc-goodies
+
+The CSS in this template reuses source code taken from the following projects:
+
+- GitHub Markdown CSS: Copyright © Sindre Sorhus, MIT License (MIT):
+  https://github.com/sindresorhus/github-markdown-css
+
+- Primer CSS: Copyright © 2016-2017 GitHub Inc., MIT License (MIT):
+  http://primercss.io/
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The MIT License
+
+Copyright (c) Tristano Ajmone, 2017 (github.com/tajmone/pandoc-goodies)
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+Copyright (c) 2017 GitHub Inc.
+
+"GitHub Pandoc HTML5 Template" is Copyright (c) Tristano Ajmone, 2017, released
+under the MIT License (MIT); it contains readaptations of substantial portions
+of the following third party softwares:
+
+(1) "GitHub Markdown CSS", Copyright (c) Sindre Sorhus, MIT License (MIT).
+(2) "Primer CSS", Copyright (c) 2016 GitHub Inc., MIT License (MIT).
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+==============================================================================-->
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Dadverbs</title>
+  <style type="text/css">
+@charset "UTF-8";.markdown-body{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#24292e;font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";font-size:16px;line-height:1.5;word-wrap:break-word;box-sizing:border-box;min-width:200px;max-width:980px;margin:0 auto;padding:45px}.markdown-body a{color:#0366d6;background-color:transparent;text-decoration:none;-webkit-text-decoration-skip:objects}.markdown-body a:active,.markdown-body a:hover{outline-width:0}.markdown-body a:hover{text-decoration:underline}.markdown-body a:not([href]){color:inherit;text-decoration:none}.markdown-body strong{font-weight:600}.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6{margin-top:24px;margin-bottom:16px;font-weight:600;line-height:1.25}.markdown-body h1{font-size:2em;margin:.67em 0;padding-bottom:.3em;border-bottom:1px solid #eaecef}.markdown-body h2{padding-bottom:.3em;font-size:1.5em;border-bottom:1px solid #eaecef}.markdown-body h3{font-size:1.25em}.markdown-body h4{font-size:1em}.markdown-body h5{font-size:.875em}.markdown-body h6{font-size:.85em;color:#6a737d}.markdown-body img{border-style:none}.markdown-body svg:not(:root){overflow:hidden}.markdown-body hr{box-sizing:content-box;height:.25em;margin:24px 0;padding:0;overflow:hidden;background-color:#e1e4e8;border:0}.markdown-body hr::before{display:table;content:""}.markdown-body hr::after{display:table;clear:both;content:""}.markdown-body input{margin:0;overflow:visible;font:inherit;font-family:inherit;font-size:inherit;line-height:inherit}.markdown-body [type=checkbox]{box-sizing:border-box;padding:0}.markdown-body *{box-sizing:border-box}.markdown-body blockquote{margin:0}.markdown-body ol,.markdown-body ul{padding-left:2em}.markdown-body ol ol,.markdown-body ul ol{list-style-type:lower-roman}.markdown-body ol ol,.markdown-body ol ul,.markdown-body ul ol,.markdown-body ul ul{margin-top:0;margin-bottom:0}.markdown-body ol ol ol,.markdown-body ol ul ol,.markdown-body ul ol ol,.markdown-body ul ul ol{list-style-type:lower-alpha}.markdown-body li>p{margin-top:16px}.markdown-body li+li{margin-top:.25em}.markdown-body dd{margin-left:0}.markdown-body dl{padding:0}.markdown-body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:600}.markdown-body dl dd{padding:0 16px;margin-bottom:16px}.markdown-body code{font-family:SFMono-Regular,Consolas,"Liberation Mono",Menlo,Courier,monospace}.markdown-body pre{font:12px SFMono-Regular,Consolas,"Liberation Mono",Menlo,Courier,monospace;word-wrap:normal}.markdown-body blockquote,.markdown-body dl,.markdown-body ol,.markdown-body p,.markdown-body pre,.markdown-body table,.markdown-body ul{margin-top:0;margin-bottom:16px}.markdown-body blockquote{padding:0 1em;color:#6a737d;border-left:.25em solid #dfe2e5}.markdown-body blockquote>:first-child{margin-top:0}.markdown-body blockquote>:last-child{margin-bottom:0}.markdown-body table{display:block;width:100%;overflow:auto;border-spacing:0;border-collapse:collapse}.markdown-body table th{font-weight:600}.markdown-body table td,.markdown-body table th{padding:6px 13px;border:1px solid #dfe2e5}.markdown-body table tr{background-color:#fff;border-top:1px solid #c6cbd1}.markdown-body table tr:nth-child(2n){background-color:#f6f8fa}.markdown-body img{max-width:100%;box-sizing:content-box;background-color:#fff}.markdown-body code{padding:.2em 0;margin:0;font-size:85%;background-color:rgba(27,31,35,.05);border-radius:3px}.markdown-body code::after,.markdown-body code::before{letter-spacing:-.2em;content:" "}.markdown-body pre>code{padding:0;margin:0;font-size:100%;word-break:normal;white-space:pre;background:0 0;border:0}.markdown-body .highlight{margin-bottom:16px}.markdown-body .highlight pre{margin-bottom:0;word-break:normal}.markdown-body .highlight pre,.markdown-body pre{padding:16px;overflow:auto;font-size:85%;line-height:1.45;background-color:#f6f8fa;border-radius:3px}.markdown-body pre code{display:inline;max-width:auto;padding:0;margin:0;overflow:visible;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}.markdown-body pre code::after,.markdown-body pre code::before{content:normal}.markdown-body .full-commit .btn-outline:not(:disabled):hover{color:#005cc5;border-color:#005cc5}.markdown-body kbd{box-shadow:inset 0 -1px 0 #959da5;display:inline-block;padding:3px 5px;font:11px/10px SFMono-Regular,Consolas,"Liberation Mono",Menlo,Courier,monospace;color:#444d56;vertical-align:middle;background-color:#fcfcfc;border:1px solid #c6cbd1;border-bottom-color:#959da5;border-radius:3px;box-shadow:inset 0 -1px 0 #959da5}.markdown-body :checked+.radio-label{position:relative;z-index:1;border-color:#0366d6}.markdown-body .task-list-item{list-style-type:none}.markdown-body .task-list-item+.task-list-item{margin-top:3px}.markdown-body .task-list-item input{margin:0 .2em .25em -1.6em;vertical-align:middle}.markdown-body::before{display:table;content:""}.markdown-body::after{display:table;clear:both;content:""}.markdown-body>:first-child{margin-top:0!important}.markdown-body>:last-child{margin-bottom:0!important}.Alert,.Error,.Note,.Success,.Warning{padding:11px;margin-bottom:24px;border-style:solid;border-width:1px;border-radius:4px}.Alert p,.Error p,.Note p,.Success p,.Warning p{margin-top:0}.Alert p:last-child,.Error p:last-child,.Note p:last-child,.Success p:last-child,.Warning p:last-child{margin-bottom:0}.Alert{color:#246;background-color:#e2eef9;border-color:#bac6d3}.Warning{color:#4c4a42;background-color:#fff9ea;border-color:#dfd8c2}.Error{color:#911;background-color:#fcdede;border-color:#d2b2b2}.Success{color:#22662c;background-color:#e2f9e5;border-color:#bad3be}.Note{color:#2f363d;background-color:#f6f8fa;border-color:#d5d8da}.Alert h1,.Alert h2,.Alert h3,.Alert h4,.Alert h5,.Alert h6{color:#246;margin-bottom:0}.Warning h1,.Warning h2,.Warning h3,.Warning h4,.Warning h5,.Warning h6{color:#4c4a42;margin-bottom:0}.Error h1,.Error h2,.Error h3,.Error h4,.Error h5,.Error h6{color:#911;margin-bottom:0}.Success h1,.Success h2,.Success h3,.Success h4,.Success h5,.Success h6{color:#22662c;margin-bottom:0}.Note h1,.Note h2,.Note h3,.Note h4,.Note h5,.Note h6{color:#2f363d;margin-bottom:0}.Alert h1:first-child,.Alert h2:first-child,.Alert h3:first-child,.Alert h4:first-child,.Alert h5:first-child,.Alert h6:first-child,.Error h1:first-child,.Error h2:first-child,.Error h3:first-child,.Error h4:first-child,.Error h5:first-child,.Error h6:first-child,.Note h1:first-child,.Note h2:first-child,.Note h3:first-child,.Note h4:first-child,.Note h5:first-child,.Note h6:first-child,.Success h1:first-child,.Success h2:first-child,.Success h3:first-child,.Success h4:first-child,.Success h5:first-child,.Success h6:first-child,.Warning h1:first-child,.Warning h2:first-child,.Warning h3:first-child,.Warning h4:first-child,.Warning h5:first-child,.Warning h6:first-child{margin-top:0}h1.title,p.subtitle{text-align:center}h1.title.followed-by-subtitle{margin-bottom:0}p.subtitle{font-size:1.5em;font-weight:600;line-height:1.25;margin-top:0;margin-bottom:16px;padding-bottom:.3em}div.line-block{white-space:pre-line}
+  </style>
+  <style type="text/css">code{white-space: pre;}</style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<article class="markdown-body">
+<header>
+<h1 class="title">Dadverbs</h1>
+</header>
+<p>by Adam Spriggs</p>
+<p>These are lessons I’ve mostly learned the hard way and don’t want to forget. And some opinions, of course.</p>
+<h2 id="relationships">1. Relationships <a id="1"></a></h2>
+<ol type="1">
+<li><a id="1:1"></a> No one cares about your welfare more than your parents. They’ve been carrying the responsibility burden for you longer than anyone else.</li>
+<li><a id="1:2"></a> If the people around you always tell you “yes” and never “no” then they don’t truly care about you.</li>
+<li><a id="1:3"></a> Refrain from gifting what the recipient collects as a hobby – unless you collect it, too.</li>
+<li><a id="1:4"></a> Get good at asking open-ended questions and leaning in to listen. It’s a good way to get to know someone.</li>
+<li><a id="1:5"></a> Be content letting other people notice your skills and effort. Your actions can speak for themselves. When you know you did something amazing, smile, high-five yourself, and leave it at that.</li>
+<li><a id="1:6"></a> Communication is not just words on a page or screen. It includes your actions, tone of voice, and facial expressions, too.</li>
+<li><a id="1:7"></a> If you don’t verbalize your expectations, you are setting yourself up for disappointment.</li>
+<li><a id="1:8"></a> Boasting about your virtuous deeds puts your priorities and motives in question. Those announcements negate most of the goodness in the results.</li>
+<li><a id="1:9"></a> Mark Twain once said, “Never argue with a fool, onlookers may not be able to tell the difference.”</li>
+</ol>
+<h2 id="cars">2. Cars <a id="2"></a></h2>
+<ol type="1">
+<li><a id="2:1"></a> Do the total cost of ownership math on your vehicle. The best cars are usually the ones that get good gas mileage.</li>
+<li><a id="2:2"></a> Invest in some floor mats that catch dirt.</li>
+<li><a id="2:3"></a> Three essential car skills: Changing oil, replacing a flat tire with the spare, and using the parking brake to do a donut in the snow.</li>
+<li><a id="2:4"></a> Paying attention is the most important rule of driving.</li>
+<li><a id="2:5"></a> The fast lane is never faster during rush hour. Generally speaking, people who treat it that way are the ones that make it worse.</li>
+</ol>
+<h2 id="money">3. Money <a id="3"></a></h2>
+<ol type="1">
+<li><a id="3:1"></a> Resist the impulse to buy something to just make yourself feel better. It rarely works. Let purchasing decisions simmer. Don’t give in to any pressure to make a decision right now.</li>
+<li><a id="3:2"></a> Be wary of those constantly trying to sell you something or those that don’t value you as an individual capable of managing your own life. Know that your attention, your sense of belonging, or fear of missing out are direct lines to your bank account.</li>
+<li><a id="3:3"></a> You’re a slave to your debtors. Pay off your debts as soon as you can.</li>
+</ol>
+<h2 id="food-drink">4. Food &amp; Drink <a id="4"></a></h2>
+<ol type="1">
+<li><a id="4:1"></a> Red potatoes are the best potatoes.</li>
+<li><a id="4:2"></a> Stew is always better on the second day.</li>
+<li><a id="4:3"></a> You should probably drink some more water.</li>
+<li><a id="4:4"></a> There’s always room for dessert.</li>
+<li><a id="4:5"></a> To quote Michael Scott in <em>The Office</em>, “The only thing that would make this day any better is ice cream.”</li>
+</ol>
+<h2 id="animals">5. Animals <a id="5"></a></h2>
+<ol type="1">
+<li><a id="5:1"></a> Hunting fish in a boat is more fun than waiting for a fish to find your bait.</li>
+<li><a id="5:2"></a> There’s something about putting your ear up to a purring cat.</li>
+<li><a id="5:3"></a> Pet names that end with a “y” are boring.</li>
+<li><a id="5:4"></a> Cats are better than dogs because of where they poop.</li>
+</ol>
+<h2 id="sports">6. Sports <a id="6"></a></h2>
+<ol type="1">
+<li><a id="6:1"></a> Good free throw shooters are good basketball players.</li>
+<li><a id="6:2"></a> Golf is only fun if you have a golf cart and the course is empty.</li>
+<li><a id="6:3"></a> The best athletes celebrate success with the team first.</li>
+<li><a id="6:4"></a> Vince Lombardi said in 1967, “[…] the next time you make it to the end zone, act like you’ve been there before.”</li>
+<li><a id="6:5"></a> It doesn’t get much better than Mitch Holthus calling a Kansas City Chiefs football game.</li>
+</ol>
+<h2 id="learning">7. Learning <a id="7"></a></h2>
+<ol type="1">
+<li><a id="7:1"></a> You learn the most when you screw it up the worst.</li>
+<li><a id="7:2"></a> If you give away all the answers freely, you’re depriving someone of the satisfaction and ownership of figuring it out.</li>
+<li><a id="7:3"></a> Occasionally take time to think about how much you’ve learned and from whom.</li>
+<li><a id="7:4"></a> Learn enough about a topic to form an opinion. The same goes for trying new things.</li>
+<li><a id="7:5"></a> Be sure statements like “that’s too much trouble” don’t turn you into a lazy person. Often challenging tasks are the most satisfying to master.</li>
+<li><a id="7:6"></a> Sometimes starting over is a lot of work, but the second go-around is much faster. That’s because you’re smarter now than when you first started.</li>
+<li><a id="7:7"></a> As dad used to say, “hide and watch.”</li>
+<li><a id="7:8"></a> If you’re not sure what you should be doing, sweep, pick up and organize.</li>
+<li><a id="7:9"></a> Sometimes it’s difficult to be sincere when you’re disparaged by someone ignorant. Chalk it up to them not knowing any better. You’ve been in that position before.</li>
+<li><a id="7:10"></a> As the old Russian saying goes, “doveryai, no proveryai” – trust, but verify.</li>
+<li><a id="7:11"></a> At some point, everyone has learned to wipe their own butt.</li>
+</ol>
+<h2 id="the-internet">8. The Internet <a id="8"></a></h2>
+<ol type="1">
+<li><a id="8:1"></a> If you wouldn’t say it or do it to someone in person, don’t post it on social media.</li>
+<li><a id="8:2"></a> The majority of people use the Internet not for spreading goodwill but to complain. Keep that in mind when you’re reading product reviews.</li>
+<li><a id="8:3"></a> If something online is free, the use of your information, your connections, your location, and related activity data is the payment.</li>
+<li><a id="8:4"></a> Algorithms are always biased because they have objectives. What algorithm doesn’t have an intended purpose?</li>
+<li><a id="8:5"></a> If what you’re saying is important and you have the option, favor richer forms of communication where people can hear your tone and see your body language.</li>
+<li><a id="8:6"></a> Don’t search the web for your ailments, unless you want cancer.</li>
+</ol>
+<h2 id="business">9. Business <a id="9"></a></h2>
+<ol type="1">
+<li><a id="9:1"></a> The Harley Davidson brand is essentially the same as the Apple brand, but with more leather.</li>
+<li><a id="9:2"></a> Be wary of any business that takes advantage of people who aren’t good at math. As it’s been said, “a fool and his money are soon parted”.</li>
+<li><a id="9:3"></a> Adding more people so a project gets done faster usually has the opposite effect. The cost of the context and knowledge transfer is almost always excluded from that planning process.</li>
+<li><a id="9:4"></a> Plan to walk across the finish line.</li>
+<li><a id="9:5"></a> Capriciously changing the rules after work has started is a sure-fire way to make everyone on the implementation team mad.</li>
+<li><a id="9:6"></a> Just like in personal relationships, gracefully saying “no” to a prospect or client is a good way of building trust and long-term value in the relationship.</li>
+<li><a id="9:7"></a> Some people wear “busy”, “stressed” or “overworked” like a badge. Most of the time it means their attention is so divided that they’re not doing anything well. Set explicit boundaries so you are not bound to their mediocrity.</li>
+<li><a id="9:8"></a> If you don’t have a firm grasp on the technical details of the project, don’t speak and manage others as if you do. Technical misstatements are typically difficult or costly to walk back later. Theodore Roosevelt once said: “The best executive is the one who has sense enough to pick good men to do what he wants done, and self-restraint to keep from meddling with them while they do it.”</li>
+<li><a id="9:9"></a> If you’re going to document requirements, be sure and include “the why” not just “the how.” “The how” is often obvious as time goes on, but the decision-making process and the rationale are what those that follow will seek to understand.</li>
+<li><a id="9:10"></a> Don’t try to scale to meet increased demand without reinvesting some of the gains in the infrastructure to support it. It’s not always obvious what constitutes “infrastructure,” but it’s critical to sustain the growth.</li>
+<li><a id="9:11"></a> Double-down on clients who are willing to cooperate as a partner and de-prioritize those that treat your work as a commodity.</li>
+<li><a id="9:12"></a> “Under-promise and over-deliver” is only possible if you know what you’re doing.</li>
+<li><a id="9:13"></a> You can’t set expectations effectively if you are not taking deliberate steps to build trust with the client stakeholders. They should have plenty of reasons to believe you when you say “this is the best way to do it.”</li>
+<li><a id="9:14"></a> Listen for opportunities to demonstrate your team’s expertise.</li>
+</ol>
+<h2 id="craftsmanship">10. Craftsmanship <a id="10"></a></h2>
+<ol type="1">
+<li><a id="10:1"></a> Don’t assume that something simple is easy or quick to build. As DaVinci said, “simplicity is the ultimate sophistication.”</li>
+<li><a id="10:2"></a> Take time to explicitly appreciate fine craftsmanship and skilled handiwork. A lot of effort probably went into it.</li>
+<li><a id="10:3"></a> Try to do it yourself, or at least research what’s involved. If you end up paying someone else to do it, you’ll have some respect for the work involved. You’ll also know if you’re paying a fair price.</li>
+</ol>
+<h2 id="religion-politics">11. Religion &amp; Politics <a id="11"></a></h2>
+<ol type="1">
+<li><a id="11:1"></a> Your beliefs aren’t truly yours until they are cemented by hardship and pain.</li>
+<li><a id="11:2"></a> We are supposed to be judgmental, just not condemning. Wisdom and discernment are underrated.</li>
+<li><a id="11:3"></a> Grace is more powerful and effective than revenge or silence. Both parties becoming aware of their role in the pain is the gateway to restoration.</li>
+<li><a id="11:4"></a> Gently question those that speak in absolutes. Seek to understand why they believe so adamantly. Strive to determine if the strong statements are born from reflection and examination or not.</li>
+<li><a id="11:5"></a> Just because a visible and vocal group agrees on an issue, doesn’t mean it’s correct. The majority can be wrong. The loudest voice may not even represent the majority.</li>
+<li><a id="11:6"></a> Quietly call out hypocrisy. Start with yourself first.</li>
+<li><a id="11:7"></a> True science is pragmatic – always testing and asking questions in order to form a hypothesis. Hypotheses are not always facts.</li>
+</ol>
+<h2 id="inner-life">12. Inner Life <a id="12"></a></h2>
+<ol type="1">
+<li><a id="12:1"></a> If you tell a lie, you’ll always be in bigger trouble than if you just told the truth and faced the consequences.</li>
+<li><a id="12:2"></a> Watch out for those “it’s not that big of a deal” parts of your life. You should do something decisive about them.</li>
+<li><a id="12:3"></a> It’s perfectly fine to be angry when you know you own an item but can’t remember where you put it. Put it in a more logical place next time.</li>
+<li><a id="12:4"></a> Get up early and enjoy the time to yourself.</li>
+</ol>
+<h2 id="perspective">13. Perspective <a id="13"></a></h2>
+<ol type="1">
+<li><a id="13:1"></a> Honestly asking yourself “What’s the worst thing that could happen?” is an effective way to keep a crisis in perspective.</li>
+<li><a id="13:2"></a> If everything is a high-priority, then nothing is. If everyone cuts to the front of the line, there’s still a line and now the other people in line are angry.</li>
+<li><a id="13:3"></a> Things will not always go as planned or turn out how you envisioned. It’s OK. As the poet Mike Tyson once said, “Everyone has a plan until they get punched in the mouth.”</li>
+<li><a id="13:4"></a> If you can’t remember what clothes you wore a week ago, others won’t remember either. We’re often confident we know what others think about us, but most of the time we get ourselves worked up for nothing.</li>
+<li><a id="13:5"></a> It’s good to consider who is behind the camera. We often think we are seeing what we are seeing, but in reality, we see what the camera operators, producers, and directors want us to see.</li>
+<li><a id="13:6"></a> There’s a chance that the Yahootie actually did do it. Mom said so.</li>
+</ol>
+<h2 id="tools">14. Tools <a id="14"></a></h2>
+<ol type="1">
+<li><a id="14:1"></a> If you’re a professional, you should invest in the quality tools that professionals use.</li>
+<li><a id="14:2"></a> Use a wooden pencil every so often. It’s nice to erase.</li>
+<li><a id="14:3"></a> Computers, like all tools, are only as smart as the people using them.</li>
+<li><a id="14:4"></a> Take your skills to the next level and learn the hotkeys of the applications you use the most.</li>
+</ol>
+</article>
+</body>
+</html>
