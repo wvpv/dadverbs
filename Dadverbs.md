@@ -153,7 +153,7 @@ These are lessons I've mostly learned the hard way and don't want to forget.  An
 6. <a id="11:6"></a> Quietly call out hypocrisy.  Start with yourself first.
 7. <a id="11:7"></a> True science is pragmatic -- always testing and asking questions in order to form a hypothesis.  Hypotheses are not always facts.
 8. <a id="11:8"></a> Do it fairly or don't do it at all.
-9. <a id="11:8"></a> We could significantly reduce highway traffic fatalities by reducing the speed limit to 20 miles-per-hour.  Why don't we?
+9. <a id="11:9"></a> We could significantly reduce highway traffic fatalities by reducing the speed limit to 20 miles-per-hour.  Why don't we?
 
 ## 12. Inner Life <a id="12"></a>
 
