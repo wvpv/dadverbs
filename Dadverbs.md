@@ -108,6 +108,7 @@ These are lessons I've mostly learned the hard way and don't want to forget.  An
 9. <a id="7:9"></a> Sometimes it's difficult to be sincere when you're disparaged by someone ignorant.  Chalk it up to them not knowing any better.  You've been in that position before.
 10. <a id="7:10"></a> As the old Russian saying goes, "doveryai, no proveryai" -- trust, but verify.
 11. <a id="7:11"></a> At some point, everyone has learned to wipe their own butt.
+12. <a id="7:12"></a> Don't discount the process of getting there.  The end result often isn't as lasting as what go you there.
 
 ## 8. The Internet <a id="8"></a>
 
@@ -134,6 +135,7 @@ These are lessons I've mostly learned the hard way and don't want to forget.  An
 12. <a id="9:12"></a> "Under-promise and over-deliver" is only possible if you know what you're doing.
 13. <a id="9:13"></a> You can't set expectations effectively if you are not taking deliberate steps to build trust with the client stakeholders.  They should have plenty of reasons to believe you when you say "this is the best way to do it."
 14. <a id="9:14"></a> Listen for opportunities to demonstrate your team's expertise.
+15. <a id="9:15"></a> Try to work yourself out of the loop.
 
 ## 10. Craftsmanship <a id="10"></a>
 
@@ -150,6 +152,8 @@ These are lessons I've mostly learned the hard way and don't want to forget.  An
 5. <a id="11:5"></a> Just because a visible and vocal group agrees on an issue, doesn't mean it's correct.  The majority can be wrong.  The loudest voice may not even represent the majority.
 6. <a id="11:6"></a> Quietly call out hypocrisy.  Start with yourself first.
 7. <a id="11:7"></a> True science is pragmatic -- always testing and asking questions in order to form a hypothesis.  Hypotheses are not always facts.
+8. <a id="11:8"></a> Do it fairly or don't do it at all.
+9. <a id="11:8"></a> We could significantly reduce highway traffic fatalities by reducing the speed limit to 20 miles-per-hour.  Why don't we?
 
 ## 12. Inner Life <a id="12"></a>
 
