@@ -108,7 +108,7 @@ These are lessons I've mostly learned the hard way and don't want to forget.  An
 9. <a id="7:9"></a> Sometimes it's difficult to be sincere when you're disparaged by someone ignorant.  Chalk it up to them not knowing any better.  You've been in that position before.
 10. <a id="7:10"></a> As the old Russian saying goes, "doveryai, no proveryai" -- trust, but verify.
 11. <a id="7:11"></a> At some point, everyone has learned to wipe their own butt.
-12. <a id="7:12"></a> Don't discount the process of getting there.  The end result often isn't as lasting as what go you there.
+12. <a id="7:12"></a> Don't discount the process of getting there.  The end result often isn't as lasting as what got you there.
 
 ## 8. The Internet <a id="8"></a>
 
