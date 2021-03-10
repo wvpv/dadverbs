@@ -142,6 +142,7 @@ These are lessons I've mostly learned the hard way and don't want to forget.  An
 1. <a id="10:1"></a> Don't assume that something simple is easy or quick to build.  As DaVinci said, "simplicity is the ultimate sophistication."
 2. <a id="10:2"></a> Take time to explicitly appreciate fine craftsmanship and skilled handiwork.  A lot of effort probably went into it.
 3. <a id="10:3"></a> Try to do it yourself, or at least research what's involved.  If you end up paying someone else to do it, you'll have some respect for the work involved.  You'll also know if you're paying a fair price.
+4. <a id="10:4"></a> It's been said "if you want it done right, do it yourself."  You can only say this if you've put a good faith effort into showing someone how to do it.
 
 ## 11. Religion & Politics <a id="11"></a>
 
@@ -170,6 +171,7 @@ These are lessons I've mostly learned the hard way and don't want to forget.  An
 4. <a id="13:4"></a> If you can't remember what clothes you wore a week ago, others won't remember either.  We're often confident we know what others think about us, but most of the time we get ourselves worked up for nothing.
 5. <a id="13:5"></a> It's good to consider who is behind the camera. We often think we are seeing what we are seeing, but in reality, we see what the camera operators, producers, and directors want us to see.
 6. <a id="13:6"></a> There's a chance that the Yahootie actually did do it.  Mom said so.
+7. <a id="13:7"></a> If I see you littering, I'll assume you're a terrible person who doesn't care about anything.  Why not hold on to it until you get to a trash can?  Hey smoker, I'm gazing angrily in your direction.
 
 ## 14. Tools <a id="14"></a>
 
