@@ -118,6 +118,7 @@ These are lessons I've mostly learned the hard way and don't want to forget.  An
 4. <a id="8:4"></a> Algorithms are always biased because they have objectives. What algorithm doesn't have an intended purpose?
 5. <a id="8:5"></a> If what you're saying is important and you have the option, favor richer forms of communication where people can hear your tone and see your body language.
 6. <a id="8:6"></a> Don't search the web for your ailments, unless you want cancer.
+7. <a id="8:7"></a> Despite of the rigors of testing, the first version of any new software or technology is risky.  If you partake, you're a test subject. The second generation usually better and less expensive.
 
 ## 9. Business <a id="9"></a>
 
