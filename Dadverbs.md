@@ -17,7 +17,7 @@ These are lessons I've mostly learned the hard way and don't want to forget.  An
     <tbody>
         <tr>
             <td style="text-align: left;"><a href="#1">1. Relationships</a></td>
-            <td style="text-align: left;"><a href="#8">8. The Internet</a></td>
+            <td style="text-align: left;"><a href="#8">8. Technology &amp; The Internet</a></td>
         </tr>
         <tr>
             <td style="text-align: left;"><a href="#2">2. Cars</a></td>
@@ -110,7 +110,7 @@ These are lessons I've mostly learned the hard way and don't want to forget.  An
 11. <a id="7:11"></a> At some point, everyone has learned to wipe their own butt.
 12. <a id="7:12"></a> Don't discount the process of getting there.  The end result often isn't as lasting as what got you there.
 
-## 8. The Internet <a id="8"></a>
+## 8. Technology &amp; The Internet <a id="8"></a>
 
 1. <a id="8:1"></a> If you wouldn't say it or do it to someone in person, don't post it on social media.
 2. <a id="8:2"></a> The majority of people use the Internet not for spreading goodwill but to complain.  Keep that in mind when you're reading product reviews.
@@ -118,7 +118,7 @@ These are lessons I've mostly learned the hard way and don't want to forget.  An
 4. <a id="8:4"></a> Algorithms are always biased because they have objectives. What algorithm doesn't have an intended purpose?
 5. <a id="8:5"></a> If what you're saying is important and you have the option, favor richer forms of communication where people can hear your tone and see your body language.
 6. <a id="8:6"></a> Don't search the web for your ailments, unless you want cancer.
-7. <a id="8:7"></a> Despite of the rigors of testing, the first version of any new software or technology is risky.  If you partake, you're a test subject. The second generation usually better and less expensive.
+7. <a id="8:7"></a> Despite of the rigors of testing, the first version of any new software or technology is risky.  You're a test subject if you partake. The second generation usually better and less expensive.
 
 ## 9. Business <a id="9"></a>
 
