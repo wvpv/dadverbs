@@ -16,7 +16,7 @@ These are lessons I've mostly learned the hard way and don't want to forget.  An
 <table style="line-height:1.1em">
     <tbody>
         <tr>
-            <td style="text-align: left;"><a href="#1">1. Relationships</a></td>
+            <td style="text-align: left;"><a href="#1">1. Interactions</a></td>
             <td style="text-align: left;"><a href="#8">8. Technology &amp; The Internet</a></td>
         </tr>
         <tr>
@@ -46,7 +46,7 @@ These are lessons I've mostly learned the hard way and don't want to forget.  An
     </tbody>
 </table>
 
-## 1. Relationships <a id="1"></a>
+## 1. Interactions <a id="1"></a>
 
 1. <a id="1:1"></a> No one cares about your welfare more than your parents.  They've been carrying the responsibility burden for you longer than anyone else.
 2. <a id="1:2"></a> If the people around you always tell you "yes" and never "no" then they don't truly care about you.
@@ -57,12 +57,13 @@ These are lessons I've mostly learned the hard way and don't want to forget.  An
 7. <a id="1:7"></a> If you don't verbalize your expectations, you are setting yourself up for disappointment.
 8. <a id="1:8"></a> Boasting about your virtuous deeds puts your priorities and motives in question. Those announcements negate most of the goodness in the results.
 9. <a id="1:9"></a> Mark Twain once said, "Never argue with a fool, onlookers may not be able to tell the difference."
+10. <a id="1:10"></a> First to complain is the first the volunteer.
 
 ## 2. Cars <a id="2"></a>
 
 1. <a id="2:1"></a> Do the total cost of ownership math on your vehicle.  The best cars are usually the ones that get good gas mileage.
 2. <a id="2:2"></a> Invest in some floor mats that catch dirt.
-3. <a id="2:3"></a> Three essential car skills: Changing oil, replacing a flat tire with the spare, and using the parking brake to do a donut in the snow.
+3. <a id="2:3"></a> Three essential car skills: Changing oil, replacing a flat tire with the spare, and using the parking brake to do a doughnut in the snow.
 4. <a id="2:4"></a> Paying attention is the most important rule of driving.
 5. <a id="2:5"></a> The fast lane is never faster during rush hour.  Generally speaking, people who treat it that way are the ones that make it worse.
 
