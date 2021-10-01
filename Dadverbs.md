@@ -57,7 +57,7 @@ These are lessons I've mostly learned the hard way and don't want to forget.  An
 7. <a id="1:7"></a> If you don't verbalize your expectations, you are setting yourself up for disappointment.
 8. <a id="1:8"></a> Boasting about your virtuous deeds puts your priorities and motives in question. Those announcements negate most of the goodness in the results.
 9. <a id="1:9"></a> Mark Twain once said, "Never argue with a fool, onlookers may not be able to tell the difference."
-10. <a id="1:10"></a> First to complain is the first the volunteer.
+10. <a id="1:10"></a> First to complain is the first volunteer.
 
 ## 2. Cars <a id="2"></a>
 
